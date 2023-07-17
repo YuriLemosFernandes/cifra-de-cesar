@@ -5,6 +5,7 @@
 Cifra de César com alfabeto com rotação à esquerda de quatro posições:
 
 Alfabeto Normal: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
 Alfabeto Cifrado: EFGHIJKLMNOPQRSTUVWXYZABCD
 
 # Atividade
