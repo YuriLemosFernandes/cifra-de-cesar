@@ -11,3 +11,4 @@ Cifra de César com alfabeto com rotação à esquerda de quatro posições:
 # Atividade
 
  Esta atividade tem como objetivo ser o desafio final do módulo de estudos de Phyton, para que possamos por em prática os métodos aprendidos em aula.
+Usando a chave 2 seremos capazes de criptografar e descriptografar qualquer mensagem.
